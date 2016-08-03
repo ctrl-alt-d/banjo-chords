@@ -1,0 +1,530 @@
+Chord A Major
+1 2 2 2
+#C A #C E
+
+4 2 2 2
+E A #C E
+
+4 6 5 7
+E #C E A
+
+9 9 10 11
+A E A #C
+
+13 14 14 14
+#C A #C E
+
+16 14 14 14
+E A #C E
+
+16 18 17 19
+E #C E A
+
+Chord A Menor
+0 2 1 2
+C A C E
+
+4 2 1 2
+E A C E
+
+4 5 5 7
+E C E A
+
+9 9 10 10
+A E A C
+
+12 9 10 10
+C E A C
+
+12 14 13 14
+C A C E
+
+16 14 13 14
+E A C E
+
+16 17 17 19
+E C E A
+
+Chord bB Major
+2 3 3 3
+D bB D F
+
+5 3 3 3
+F bB D F
+
+5 7 6 8
+F D F bB
+
+10 10 11 12
+bB F bB D
+
+14 15 15 15
+D bB D F
+
+17 15 15 15
+F bB D F
+
+17 19 18 20
+F D F bB
+
+Chord bB Menor
+1 3 2 3
+#C bB #C F
+
+5 3 2 3
+F bB #C F
+
+5 6 6 8
+F #C F bB
+
+10 10 11 11
+bB F bB #C
+
+13 10 11 11
+#C F bB #C
+
+13 15 14 15
+#C bB #C F
+
+17 15 14 15
+F bB #C F
+
+17 18 18 20
+F #C F bB
+
+Chord B Major
+3 4 4 4
+#D B #D #F
+
+6 4 4 4
+#F B #D #F
+
+6 8 7 9
+#F #D #F B
+
+11 11 12 13
+B #F B #D
+
+15 16 16 16
+#D B #D #F
+
+18 16 16 16
+#F B #D #F
+
+Chord B Menor
+2 4 3 4
+D B D #F
+
+6 4 3 4
+#F B D #F
+
+6 7 7 9
+#F D #F B
+
+11 11 12 12
+B #F B D
+
+14 11 12 12
+D #F B D
+
+14 16 15 16
+D B D #F
+
+18 16 15 16
+#F B D #F
+
+Chord C Major
+0 0 1 2
+C G C E
+
+4 5 5 5
+E C E G
+
+7 5 5 5
+G C E G
+
+7 9 8 10
+G E G C
+
+12 12 13 14
+C G C E
+
+16 17 17 17
+E C E G
+
+19 17 17 17
+G C E G
+
+Chord C Menor
+0 0 1 1
+C G C #D
+
+3 0 1 1
+#D G C #D
+
+3 5 4 5
+#D C #D G
+
+7 5 4 5
+G C #D G
+
+7 8 8 10
+G #D G C
+
+12 12 13 13
+C G C #D
+
+15 12 13 13
+#D G C #D
+
+15 17 16 17
+#D C #D G
+
+19 17 16 17
+G C #D G
+
+Chord #C Major
+1 1 2 3
+#C #G #C F
+
+5 6 6 6
+F #C F #G
+
+8 6 6 6
+#G #C F #G
+
+8 10 9 11
+#G F #G #C
+
+13 13 14 15
+#C #G #C F
+
+17 18 18 18
+F #C F #G
+
+20 18 18 18
+#G #C F #G
+
+Chord #C Menor
+1 1 2 2
+#C #G #C E
+
+4 1 2 2
+E #G #C E
+
+4 6 5 6
+E #C E #G
+
+8 6 5 6
+#G #C E #G
+
+8 9 9 11
+#G E #G #C
+
+13 13 14 14
+#C #G #C E
+
+16 13 14 14
+E #G #C E
+
+16 18 17 18
+E #C E #G
+
+20 18 17 18
+#G #C E #G
+
+Chord D Major
+2 2 3 4
+D A D #F
+
+6 7 7 7
+#F D #F A
+
+9 7 7 7
+A D #F A
+
+9 11 10 12
+A #F A D
+
+14 14 15 16
+D A D #F
+
+18 19 19 19
+#F D #F A
+
+Chord D Menor
+2 2 3 3
+D A D F
+
+5 2 3 3
+F A D F
+
+5 7 6 7
+F D F A
+
+9 7 6 7
+A D F A
+
+9 10 10 12
+A F A D
+
+14 14 15 15
+D A D F
+
+17 14 15 15
+F A D F
+
+17 19 18 19
+F D F A
+
+Chord #D Major
+3 3 4 5
+#D bB #D G
+
+7 8 8 8
+G #D G bB
+
+10 8 8 8
+bB #D G bB
+
+10 12 11 13
+bB G bB #D
+
+15 15 16 17
+#D bB #D G
+
+19 20 20 20
+G #D G bB
+
+Chord #D Menor
+3 3 4 4
+#D bB #D #F
+
+6 3 4 4
+#F bB #D #F
+
+6 8 7 8
+#F #D #F bB
+
+10 8 7 8
+bB #D #F bB
+
+10 11 11 13
+bB #F bB #D
+
+15 15 16 16
+#D bB #D #F
+
+18 15 16 16
+#F bB #D #F
+
+18 20 19 20
+#F #D #F bB
+
+Chord E Major
+4 4 5 6
+E B E #G
+
+8 9 9 9
+#G E #G B
+
+11 9 9 9
+B E #G B
+
+11 13 12 14
+B #G B E
+
+16 16 17 18
+E B E #G
+
+Chord E Menor
+4 4 5 5
+E B E G
+
+7 4 5 5
+G B E G
+
+7 9 8 9
+G E G B
+
+11 9 8 9
+B E G B
+
+11 12 12 14
+B G B E
+
+16 16 17 17
+E B E G
+
+19 16 17 17
+G B E G
+
+Chord F Major
+0 2 1 3
+C A C F
+
+5 5 6 7
+F C F A
+
+9 10 10 10
+A F A C
+
+12 10 10 10
+C F A C
+
+12 14 13 15
+C A C F
+
+17 17 18 19
+F C F A
+
+Chord F Menor
+0 1 1 3
+C #G C F
+
+5 5 6 6
+F C F #G
+
+8 5 6 6
+#G C F #G
+
+8 10 9 10
+#G F #G C
+
+12 10 9 10
+C F #G C
+
+12 13 13 15
+C #G C F
+
+17 17 18 18
+F C F #G
+
+20 17 18 18
+#G C F #G
+
+Chord #F Major
+1 3 2 4
+#C bB #C #F
+
+6 6 7 8
+#F #C #F bB
+
+10 11 11 11
+bB #F bB #C
+
+13 11 11 11
+#C #F bB #C
+
+13 15 14 16
+#C bB #C #F
+
+18 18 19 20
+#F #C #F bB
+
+Chord #F Menor
+1 2 2 4
+#C A #C #F
+
+6 6 7 7
+#F #C #F A
+
+9 6 7 7
+A #C #F A
+
+9 11 10 11
+A #F A #C
+
+13 11 10 11
+#C #F A #C
+
+13 14 14 16
+#C A #C #F
+
+18 18 19 19
+#F #C #F A
+
+Chord G Major
+2 0 0 0
+D G B D
+
+2 4 3 5
+D B D G
+
+7 7 8 9
+G D G B
+
+11 12 12 12
+B G B D
+
+14 12 12 12
+D G B D
+
+14 16 15 17
+D B D G
+
+Chord G Menor
+2 3 3 5
+D bB D G
+
+7 7 8 8
+G D G bB
+
+10 7 8 8
+bB D G bB
+
+10 12 11 12
+bB G bB D
+
+14 12 11 12
+D G bB D
+
+14 15 15 17
+D bB D G
+
+19 19 20 20
+G D G bB
+
+Chord #G Major
+0 1 1 1
+C #G C #D
+
+3 1 1 1
+#D #G C #D
+
+3 5 4 6
+#D C #D #G
+
+8 8 9 10
+#G #D #G C
+
+12 13 13 13
+C #G C #D
+
+15 13 13 13
+#D #G C #D
+
+15 17 16 18
+#D C #D #G
+
+Chord #G Menor
+3 1 0 1
+#D #G B #D
+
+3 4 4 6
+#D B #D #G
+
+8 8 9 9
+#G #D #G B
+
+11 8 9 9
+B #D #G B
+
+11 13 12 13
+B #G B #D
+
+15 13 12 13
+#D #G B #D
+
+15 16 16 18
+#D B #D #G
