@@ -12,10 +12,16 @@ NUM_SEMITONES = 12
 ROOT = 0 # at 0 semitones
 MINOR_THIRD = 3 # 3 semitones
 MAJOR_THIRD = 4 # 4 semitones
+MINOR_SEVENTH = 10
 PERFECT_FIFTH = 7
+FALTTED_FIFTH = 6
 
 CHORDS_TYPES = [ {'Name': 'Major', 'Simbol': '', 'Intervals': [ ROOT, MAJOR_THIRD, PERFECT_FIFTH ] },
-                 {'Name': 'Menor', 'Simbol': 'm', 'Intervals': [ ROOT, MINOR_THIRD, PERFECT_FIFTH ] }
+                 {'Name': 'Major7', 'Simbol': '7', 'Intervals': [ ROOT, MAJOR_THIRD, PERFECT_FIFTH, MINOR_SEVENTH ] },
+                 {'Name': 'Menor', 'Simbol': 'm', 'Intervals': [ ROOT, MINOR_THIRD, PERFECT_FIFTH ] },
+                 {'Name': 'Menor7', 'Simbol': 'm7', 'Intervals': [ ROOT, MINOR_THIRD, PERFECT_FIFTH, MINOR_SEVENTH ] },
+                 {'Name': 'Diminished', 'Simbol': 'dim', 'Intervals': [ ROOT, MINOR_THIRD, FALTTED_FIFTH ] },
+                 {'Name': 'Diminished7', 'Simbol': 'dim7', 'Intervals': [ ROOT, MINOR_THIRD, FALTTED_FIFTH, MINOR_SEVENTH ] },
                 ]
 
 MAX_FRETS = 4
@@ -47,10 +53,16 @@ for root_note in NOTES:
             needed_notes.add( NOTES[  ( root_note_index + needed_note ) % NUM_SEMITONES  ]    )
         #print ( 'Per fer ', root_note, acord['Name'], ' calen', needed_notes )
 
-        #des del traste 0 fins al darrer
-        for f in range( 0, TOTAL_FRETS - MAX_FRETS ):
+        #des del traste 1 fins al darrer
+        for f in range( 1, TOTAL_FRETS - MAX_FRETS ):
             #buscar fins a MAX_FRETS
             notes_per_corda = [ [] for _ in STRINGS ]  # [ [ (0, 'G'), (3,'B') ],  [ .... ]  ]
+            for corda in range( 0, len( STRINGS) ):
+                if STRINGS[corda] in needed_notes:
+                    notes_per_corda[corda].append( ( 0,
+                                                     STRINGS[corda]
+                                                    ) )
+
             for delta_corda in range( 0, MAX_FRETS ):
                 for corda in range( 0, len( STRINGS) ):
                     if STRING_NOTES[corda][f+delta_corda] in needed_notes:
@@ -76,6 +88,9 @@ for root_note in NOTES:
 
 
 #pintar totes les solucions (index)
+print( """## {0} Plectrum Banjo Chords
+""".format( sum( [ len(x['Solutions']) for x in all_solucions  ] ) ))
+
 for a_solution in all_solucions:
     text="{root}{chord} ({notes})".format(
                     chord=a_solution['Chord'],
@@ -84,6 +99,9 @@ for a_solution in all_solucions:
                                             )
     print( "* [{0}](#{1})".format( text, text.replace(" ","-").replace("#","").replace("(","").replace(")","").lower() ) )
 
+print( """## Plectrum Banjo Chords
+
+""" )
 
 #pintar totes les solucions (acords)
 for a_solution in all_solucions:
