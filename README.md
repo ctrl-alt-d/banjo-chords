@@ -6,80 +6,80 @@ Easy to transpose to other string instruments
 
 Work in progress, be free to improve it ;)
 
-## 934 Plectrum Banjo Chords
+## 913 Plectrum Banjo Chords
 
 * [A (A #C E)](#a-a-c-e)
 * [A7 (A #C E G)](#a7-a-c-e-g)
 * [Am (A C E)](#am-a-c-e)
 * [Am7 (A C E G)](#am7-a-c-e-g)
 * [Adim (A C #D)](#adim-a-c-d)
-* [Adim7 (A C G #D)](#adim7-a-c-g-d)
+* [Adim7 (A C #F #D)](#adim7-a-c-f-d)
 * [bB (D bB F)](#bb-d-bb-f)
 * [bB7 (#G D bB F)](#bb7-g-d-bb-f)
 * [bBm (#C bB F)](#bbm-c-bb-f)
 * [bBm7 (#C #G bB F)](#bbm7-c-g-bb-f)
 * [bBdim (#C E bB)](#bbdim-c-e-bb)
-* [bBdim7 (#C #G E bB)](#bbdim7-c-g-e-bb)
+* [bBdim7 (#C E G bB)](#bbdim7-c-e-g-bb)
 * [B (B #F #D)](#b-b-f-d)
 * [B7 (A B #F #D)](#b7-a-b-f-d)
 * [Bm (B D #F)](#bm-b-d-f)
 * [Bm7 (A B D #F)](#bm7-a-b-d-f)
 * [Bdim (B D F)](#bdim-b-d-f)
-* [Bdim7 (A B D F)](#bdim7-a-b-d-f)
+* [Bdim7 (B #G D F)](#bdim7-b-g-d-f)
 * [C (C E G)](#c-c-e-g)
 * [C7 (C E bB G)](#c7-c-e-bb-g)
 * [Cm (C G #D)](#cm-c-g-d)
 * [Cm7 (C bB G #D)](#cm7-c-bb-g-d)
 * [Cdim (C #F #D)](#cdim-c-f-d)
-* [Cdim7 (C #F bB #D)](#cdim7-c-f-bb-d)
+* [Cdim7 (A C #F #D)](#cdim7-a-c-f-d)
 * [#C (#C #G F)](#c-c-g-f)
 * [#C7 (#C B #G F)](#c7-c-b-g-f)
 * [#Cm (#C #G E)](#cm-c-g-e)
 * [#Cm7 (#C #G B E)](#cm7-c-g-b-e)
 * [#Cdim (#C E G)](#cdim-c-e-g)
-* [#Cdim7 (#C B E G)](#cdim7-c-b-e-g)
+* [#Cdim7 (#C E bB G)](#cdim7-c-e-bb-g)
 * [D (A D #F)](#d-a-d-f)
 * [D7 (A C D #F)](#d7-a-c-d-f)
 * [Dm (A D F)](#dm-a-d-f)
 * [Dm7 (A C D F)](#dm7-a-c-d-f)
 * [Ddim (#G D F)](#ddim-g-d-f)
-* [Ddim7 (C #G D F)](#ddim7-c-g-d-f)
+* [Ddim7 (B #G D F)](#ddim7-b-g-d-f)
 * [#D (bB G #D)](#d-bb-g-d)
 * [#D7 (#C bB G #D)](#d7-c-bb-g-d)
 * [#Dm (#F bB #D)](#dm-f-bb-d)
 * [#Dm7 (#C #F bB #D)](#dm7-c-f-bb-d)
 * [#Ddim (A #F #D)](#ddim-a-f-d)
-* [#Ddim7 (A #C #F #D)](#ddim7-a-c-f-d)
+* [#Ddim7 (A C #F #D)](#ddim7-a-c-f-d)
 * [E (#G B E)](#e-g-b-e)
 * [E7 (#G B E D)](#e7-g-b-e-d)
 * [Em (B E G)](#em-b-e-g)
 * [Em7 (B E D G)](#em7-b-e-d-g)
 * [Edim (E bB G)](#edim-e-bb-g)
-* [Edim7 (E bB G D)](#edim7-e-bb-g-d)
+* [Edim7 (#C E bB G)](#edim7-c-e-bb-g)
 * [F (A C F)](#f-a-c-f)
 * [F7 (A C #D F)](#f7-a-c-d-f)
 * [Fm (C #G F)](#fm-c-g-f)
 * [Fm7 (C #D #G F)](#fm7-c-d-g-f)
 * [Fdim (B #G F)](#fdim-b-g-f)
-* [Fdim7 (#D B #G F)](#fdim7-d-b-g-f)
+* [Fdim7 (B #G D F)](#fdim7-b-g-d-f)
 * [#F (#C #F bB)](#f-c-f-bb)
 * [#F7 (#C E #F bB)](#f7-c-e-f-bb)
 * [#Fm (A #C #F)](#fm-a-c-f)
 * [#Fm7 (A #C E #F)](#fm7-a-c-e-f)
 * [#Fdim (A C #F)](#fdim-a-c-f)
-* [#Fdim7 (A C E #F)](#fdim7-a-c-e-f)
+* [#Fdim7 (A C #F #D)](#fdim7-a-c-f-d)
 * [G (B D G)](#g-b-d-g)
 * [G7 (B D G F)](#g7-b-d-g-f)
 * [Gm (bB G D)](#gm-bb-g-d)
 * [Gm7 (F bB G D)](#gm7-f-bb-g-d)
 * [Gdim (#C bB G)](#gdim-c-bb-g)
-* [Gdim7 (#C bB G F)](#gdim7-c-bb-g-f)
+* [Gdim7 (#C E bB G)](#gdim7-c-e-bb-g)
 * [#G (C #G #D)](#g-c-g-d)
 * [#G7 (C #G #F #D)](#g7-c-g-f-d)
 * [#Gm (B #G #D)](#gm-b-g-d)
 * [#Gm7 (B #G #F #D)](#gm7-b-g-f-d)
 * [#Gdim (B #G D)](#gdim-b-g-d)
-* [#Gdim7 (B #G D #F)](#gdim7-b-g-d-f)
+* [#Gdim7 (B #G D F)](#gdim7-b-g-d-f)
 
 ## Plectrum Banjo Chords
 
@@ -382,72 +382,42 @@ Work in progress, be free to improve it ;)
       0  20  19  18
       C  #D   A  #D
 
-### Adim7 (A C G #D)
-      0   0   1   0
-      C   G  #D   A
+### Adim7 (A C #F #D)
+      3   2   4   3
+     #D   A  #F   C
 
-      3   5   5   0
-     #D   C   G   A
+      3   5   4   0
+     #D   C  #F   A
 
-      3   2   5   3
-     #D   A   G   C
+      6   5   7   6
+     #F   C   A  #D
 
-      0   0   7   6
-      C   G   A  #D
+      0   8   7   9
+      C  #D   A  #F
 
-      7   5   7   6
-      G   C   A  #D
+      9   8  10   9
+      A  #D   C  #F
 
-      0   8   5   0
-      C  #D   G   A
+      0  11  13   0
+      C  #F  #D   A
 
-      7   8  10   0
-      G  #D   C   A
+     12  11  13   0
+      C  #F  #D   A
 
-      0   8   7  10
-      C  #D   A   G
+      0  11  13  12
+      C  #F  #D   A
 
-      9   8  10  10
-      A  #D   C   G
+     12  11  13  12
+      C  #F  #D   A
 
-      0   0  13   0
-      C   G  #D   A
+     15  14  16  15
+     #D   A  #F   C
 
-     12   0  13   0
-      C   G  #D   A
+     15  17  16   0
+     #D   C  #F   A
 
-      0  12  13   0
-      C   G  #D   A
-
-     12  12  13   0
-      C   G  #D   A
-
-      0   0  13  12
-      C   G  #D   A
-
-     12   0  13  12
-      C   G  #D   A
-
-      0  12  13  12
-      C   G  #D   A
-
-     12  12  13  12
-      C   G  #D   A
-
-     15  17  17   0
-     #D   C   G   A
-
-     15  14  17  15
-     #D   A   G   C
-
-      0   0  19  18
-      C   G   A  #D
-
-     19  17  19  18
-      G   C   A  #D
-
-      0  20  17   0
-      C  #D   G   A
+     18  17  19  18
+     #F   C   A  #D
 
 ### bB (D bB F)
       2   3   3   1
@@ -601,27 +571,30 @@ Work in progress, be free to improve it ;)
      16  15  14  16
       E  bB   E  #C
 
-### bBdim7 (#C #G E bB)
-      1   1   2   1
-     #C  #G   E  bB
+### bBdim7 (#C E G bB)
+      1   0   2   1
+     #C   G   E  bB
 
-      4   3   6   4
-      E  bB  #G  #C
+      4   3   5   4
+      E  bB   G  #C
 
-      8   6   8   7
-     #G  #C  bB   E
+      7   6   8   7
+      G  #C  bB   E
 
-     10   9  11  11
-     bB   E  #C  #G
+     10   9  11  10
+     bB   E  #C   G
 
-     13  13  14  13
-     #C  #G   E  bB
+     13   0  14  13
+     #C   G   E  bB
 
-     16  15  18  16
-      E  bB  #G  #C
+     13  12  14  13
+     #C   G   E  bB
 
-     20  18  20  19
-     #G  #C  bB   E
+     16  15  17  16
+      E  bB   G  #C
+
+     19  18  20  19
+      G  #C  bB   E
 
 ### B (B #F #D)
       3   4   4   2
@@ -808,51 +781,27 @@ Work in progress, be free to improve it ;)
      17  16  15  17
       F   B   F   D
 
-### Bdim7 (A B D F)
-      2   4   3   0
-      D   B   F   A
+### Bdim7 (B #G D F)
+      2   1   3   2
+      D  #G   F   B
 
-      2   2   3   2
-      D   A   F   B
+      5   4   6   5
+      F   B  #G   D
 
-      5   4   0   0
-      F   B   D   A
+      8   7   9   8
+     #G   D   B   F
 
-      5   2   0   2
-      F   A   D   B
+     11  10   0  11
+      B   F   D  #G
 
-      5   4   7   5
-      F   B   A   D
+     11  10  12  11
+      B   F   D  #G
 
-      9   7   9   8
-      A   D   B   F
+     14  13  15  14
+      D  #G   F   B
 
-     11  10   0   0
-      B   F   D   A
-
-     11  10  12   0
-      B   F   D   A
-
-     11  10   0  12
-      B   F   D   A
-
-     11  10  12  12
-      B   F   D   A
-
-     14  14  15  14
-      D   A   F   B
-
-     14  16  15   0
-      D   B   F   A
-
-     17  16   0   0
-      F   B   D   A
-
-     17  14   0  14
-      F   A   D   B
-
-     17  16  19  17
-      F   B   A   D
+     17  16  18  17
+      F   B  #G   D
 
 ### C (C E G)
       0   0   2   3
@@ -1132,36 +1081,42 @@ Work in progress, be free to improve it ;)
      18  17  16  18
      #F   C  #F  #D
 
-### Cdim7 (C #F bB #D)
-      3   3   4   3
-     #D  bB  #F   C
+### Cdim7 (A C #F #D)
+      3   2   4   3
+     #D   A  #F   C
 
-      0   3   4   6
-      C  bB  #F  #D
+      3   5   4   0
+     #D   C  #F   A
 
-      6   5   8   6
-     #F   C  bB  #D
+      6   5   7   6
+     #F   C   A  #D
 
-      0   8   8   9
-      C  #D  bB  #F
+      0   8   7   9
+      C  #D   A  #F
 
-     10   8  10   9
-     bB  #D   C  #F
+      9   8  10   9
+      A  #D   C  #F
 
-      0  11  13  13
-      C  #F  #D  bB
+      0  11  13   0
+      C  #F  #D   A
 
-     12  11  13  13
-      C  #F  #D  bB
+     12  11  13   0
+      C  #F  #D   A
 
-     15  15  16  15
-     #D  bB  #F   C
+      0  11  13  12
+      C  #F  #D   A
 
-      0  15  16  18
-      C  bB  #F  #D
+     12  11  13  12
+      C  #F  #D   A
 
-     18  17  20  18
-     #F   C  bB  #D
+     15  14  16  15
+     #D   A  #F   C
+
+     15  17  16   0
+     #D   C  #F   A
+
+     18  17  19  18
+     #F   C   A  #D
 
 ### #C (#C #G F)
       1   1   3   4
@@ -1309,27 +1264,30 @@ Work in progress, be free to improve it ;)
      19  18  17  19
       G  #C   G   E
 
-### #Cdim7 (#C B E G)
-      1   0   2   2
-     #C   G   E   B
+### #Cdim7 (#C E bB G)
+      1   0   2   1
+     #C   G   E  bB
 
-      4   4   5   4
-      E   B   G  #C
+      4   3   5   4
+      E  bB   G  #C
 
-      7   6   9   7
-      G  #C   B   E
+      7   6   8   7
+      G  #C  bB   E
 
-     11   9  11  10
-      B   E  #C   G
+     10   9  11  10
+     bB   E  #C   G
 
-     13   0  14  14
-     #C   G   E   B
+     13   0  14  13
+     #C   G   E  bB
 
-     13  12  14  14
-     #C   G   E   B
+     13  12  14  13
+     #C   G   E  bB
 
-     16  16  17  16
-      E   B   G  #C
+     16  15  17  16
+      E  bB   G  #C
+
+     19  18  20  19
+      G  #C  bB   E
 
 ### D (A D #F)
       2   2   4   0
@@ -1654,45 +1612,27 @@ Work in progress, be free to improve it ;)
      20  19  18  20
      #G   D  #G   F
 
-### Ddim7 (C #G D F)
-      2   1   3   3
-      D  #G   F   C
+### Ddim7 (B #G D F)
+      2   1   3   2
+      D  #G   F   B
 
-      5   5   6   5
-      F   C  #G   D
+      5   4   6   5
+      F   B  #G   D
 
-      8   5   0   8
-     #G   C   D   F
+      8   7   9   8
+     #G   D   B   F
 
-      0   7   6   8
-      C   D  #G   F
+     11  10   0  11
+      B   F   D  #G
 
-      8   7  10   8
-     #G   D   C   F
+     11  10  12  11
+      B   F   D  #G
 
-      0  10   0  11
-      C   F   D  #G
+     14  13  15  14
+      D  #G   F   B
 
-     12  10   0  11
-      C   F   D  #G
-
-      0  10  12  11
-      C   F   D  #G
-
-     12  10  12  11
-      C   F   D  #G
-
-     14  13  15  15
-      D  #G   F   C
-
-     17  17  18  17
-      F   C  #G   D
-
-     20  17   0  20
-     #G   C   D   F
-
-      0  19  18  20
-      C   D  #G   F
+     17  16  18  17
+      F   B  #G   D
 
 ### #D (bB G #D)
       3   0   1   1
@@ -1843,33 +1783,42 @@ Work in progress, be free to improve it ;)
      18  20  19  18
      #F  #D   A  #D
 
-### #Ddim7 (A #C #F #D)
-      3   2   4   4
-     #D   A  #F  #C
+### #Ddim7 (A C #F #D)
+      3   2   4   3
+     #D   A  #F   C
 
-      3   6   4   0
-     #D  #C  #F   A
+      3   5   4   0
+     #D   C  #F   A
 
-      6   6   7   6
-     #F  #C   A  #D
+      6   5   7   6
+     #F   C   A  #D
 
-      9   8  11   9
-      A  #D  #C  #F
+      0   8   7   9
+      C  #D   A  #F
 
-     13  11  13   0
-     #C  #F  #D   A
+      9   8  10   9
+      A  #D   C  #F
 
-     13  11  13  12
-     #C  #F  #D   A
+      0  11  13   0
+      C  #F  #D   A
 
-     15  14  16  16
-     #D   A  #F  #C
+     12  11  13   0
+      C  #F  #D   A
 
-     15  18  16   0
-     #D  #C  #F   A
+      0  11  13  12
+      C  #F  #D   A
 
-     18  18  19  18
-     #F  #C   A  #D
+     12  11  13  12
+      C  #F  #D   A
+
+     15  14  16  15
+     #D   A  #F   C
+
+     15  17  16   0
+     #D   C  #F   A
+
+     18  17  19  18
+     #F   C   A  #D
 
 ### E (#G B E)
       4   1   2   2
@@ -2038,42 +1987,30 @@ Work in progress, be free to improve it ;)
      19   0  20  19
       G   G  bB   E
 
-### Edim7 (E bB G D)
-      4   0   0   1
-      E   G   D  bB
+### Edim7 (#C E bB G)
+      1   0   2   1
+     #C   G   E  bB
 
-      2   0   2   1
-      D   G   E  bB
+      4   3   5   4
+      E  bB   G  #C
 
-      4   3   5   5
-      E  bB   G   D
+      7   6   8   7
+      G  #C  bB   E
 
-      7   7   8   7
-      G   D  bB   E
+     10   9  11  10
+     bB   E  #C   G
 
-     10   0   0   7
-     bB   G   D   E
+     13   0  14  13
+     #C   G   E  bB
 
-     10   9   0  10
-     bB   E   D   G
+     13  12  14  13
+     #C   G   E  bB
 
-     10   9  12  10
-     bB   E   D   G
+     16  15  17  16
+      E  bB   G  #C
 
-     14   0  14  13
-      D   G   E  bB
-
-     14  12  14  13
-      D   G   E  bB
-
-     16   0   0  13
-      E   G   D  bB
-
-     16  15  17  17
-      E  bB   G   D
-
-     19  19  20  19
-      G   D  bB   E
+     19  18  20  19
+      G  #C  bB   E
 
 ### F (A C F)
       0   2   3   0
@@ -2287,24 +2224,27 @@ Work in progress, be free to improve it ;)
      11  10   9  11
       B   F   B  #G
 
-### Fdim7 (#D B #G F)
-      3   1   3   2
-     #D  #G   F   B
+### Fdim7 (B #G D F)
+      2   1   3   2
+      D  #G   F   B
 
-      5   4   6   6
-      F   B  #G  #D
+      5   4   6   5
+      F   B  #G   D
 
-      8   8   9   8
-     #G  #D   B   F
+      8   7   9   8
+     #G   D   B   F
 
-     11  10  13  11
-      B   F  #D  #G
+     11  10   0  11
+      B   F   D  #G
 
-     15  13  15  14
-     #D  #G   F   B
+     11  10  12  11
+      B   F   D  #G
 
-     17  16  18  18
-      F   B  #G  #D
+     14  13  15  14
+      D  #G   F   B
+
+     17  16  18  17
+      F   B  #G   D
 
 ### #F (#C #F bB)
       1   3   4   1
@@ -2488,42 +2428,42 @@ Work in progress, be free to improve it ;)
      18  17  19   0
      #F   C   A   A
 
-### #Fdim7 (A C E #F)
-      4   2   4   3
-      E   A  #F   C
+### #Fdim7 (A C #F #D)
+      3   2   4   3
+     #D   A  #F   C
 
-      4   5   4   0
-      E   C  #F   A
+      3   5   4   0
+     #D   C  #F   A
 
-      6   5   7   7
-     #F   C   A   E
+      6   5   7   6
+     #F   C   A  #D
 
-      0   9   7   9
-      C   E   A  #F
+      0   8   7   9
+      C  #D   A  #F
 
-      9   9  10   9
-      A   E   C  #F
+      9   8  10   9
+      A  #D   C  #F
 
-      0  11  14   0
-      C  #F   E   A
+      0  11  13   0
+      C  #F  #D   A
 
-     12  11  14   0
-      C  #F   E   A
+     12  11  13   0
+      C  #F  #D   A
 
-      0  11  14  12
-      C  #F   E   A
+      0  11  13  12
+      C  #F  #D   A
 
-     12  11  14  12
-      C  #F   E   A
+     12  11  13  12
+      C  #F  #D   A
 
-     16  14  16  15
-      E   A  #F   C
+     15  14  16  15
+     #D   A  #F   C
 
-     16  17  16   0
-      E   C  #F   A
+     15  17  16   0
+     #D   C  #F   A
 
-     18  17  19  19
-     #F   C   A   E
+     18  17  19  18
+     #F   C   A  #D
 
 ### G (B D G)
       2   0   0   2
@@ -2755,33 +2695,30 @@ Work in progress, be free to improve it ;)
      13  12  11  13
      #C   G  #C  bB
 
-### Gdim7 (#C bB G F)
-      1   0   3   1
-     #C   G   F  bB
+### Gdim7 (#C E bB G)
+      1   0   2   1
+     #C   G   E  bB
 
-      5   3   5   4
-      F  bB   G  #C
+      4   3   5   4
+      E  bB   G  #C
 
-      7   6   8   8
-      G  #C  bB   F
+      7   6   8   7
+      G  #C  bB   E
 
-     10   0  11   8
-     bB   G  #C   F
+     10   9  11  10
+     bB   E  #C   G
 
-     10  10  11  10
-     bB   F  #C   G
+     13   0  14  13
+     #C   G   E  bB
 
-     13   0  15  13
-     #C   G   F  bB
+     13  12  14  13
+     #C   G   E  bB
 
-     13  12  15  13
-     #C   G   F  bB
+     16  15  17  16
+      E  bB   G  #C
 
-     17  15  17  16
-      F  bB   G  #C
-
-     19  18  20  20
-      G  #C  bB   F
+     19  18  20  19
+      G  #C  bB   E
 
 ### #G (C #G #D)
       0   1   1   3
@@ -2935,25 +2872,25 @@ Work in progress, be free to improve it ;)
      14  13  12  14
       D  #G   D   B
 
-### #Gdim7 (B #G D #F)
-      2   1   4   2
-      D  #G  #F   B
+### #Gdim7 (B #G D F)
+      2   1   3   2
+      D  #G   F   B
 
-      6   4   6   5
-     #F   B  #G   D
+      5   4   6   5
+      F   B  #G   D
 
-      8   7   9   9
-     #G   D   B  #F
+      8   7   9   8
+     #G   D   B   F
 
-     11  11   0  11
-      B  #F   D  #G
+     11  10   0  11
+      B   F   D  #G
 
-     11  11  12  11
-      B  #F   D  #G
+     11  10  12  11
+      B   F   D  #G
 
-     14  13  16  14
-      D  #G  #F   B
+     14  13  15  14
+      D  #G   F   B
 
-     18  16  18  17
-     #F   B  #G   D
+     17  16  18  17
+      F   B  #G   D
 
